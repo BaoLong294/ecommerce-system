@@ -1,10 +1,10 @@
 # Uniqlo-inspired E-commerce System
 
-## 📝 Introduction
+## Introduction
 
 This project is a full-fledged e-commerce system developed as part of my Fullstack self-learning journey with The Odin Project. The system comprises a consumer-facing e-commerce website and an internal administration dashboard for managing inventory (IMS) and orders (OMS). The primary goal is to simulate the shopping and management experience of a large e-commerce platform, drawing inspiration from Uniqlo.com.
 
-## 🎯 Initial Project Goals
+## Initial Project Goals
 
 - **Build a complete Fullstack system**: Encompassing Frontend (React), Backend (Node.js/Express), and Database (PostgreSQL).
 - **Develop two distinct web applications**:
@@ -14,7 +14,7 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
 - **Design a user interface inspired by Uniqlo**: Focusing on minimalism, modernity, and a user-friendly experience.
 - **Learn effective project management with Git/GitHub**: Practicing professional Git operations, writing clear commit messages, and maintaining a clean version history.
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend (E-commerce Website & Admin Dashboard):**
   - HTML5
@@ -38,7 +38,7 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
 
 ---
 
-## ✨ Implemented Features (Update this section upon completing each stage)
+## Implemented Features (Update this section upon completing each stage)
 
 - **E-commerce Storefront:**
 
@@ -58,7 +58,7 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
   - [Feature 4: E.g., Basic delivery management (assigning orders to shippers, updating order status from admin side).]
   - [Add more features as they are completed.]
 
-## 🚀 Skills Demonstrated (Update this section upon project completion)
+## Skills Demonstrated (Update this section upon project completion)
 
 - **Fullstack Development**: Designed and built a comprehensive application from frontend to backend and database.
 - **Frontend Development (React)**: Constructed dynamic, component-based user interfaces, managed state, and handled API interactions.
@@ -70,14 +70,14 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
 - **Problem-Solving & Debugging**: Overcame technical challenges throughout the development process.
 - [Add more skills learned or reinforced, e.g., Map API Integration, Error Handling, Clean Code.]
 
-## 🧠 Lessons Learned (Update this section upon project completion)
+## Lessons Learned (Update this section upon project completion)
 
 - **Biggest Challenge**: [Describe a specific challenge you faced, e.g., "Designing a complex database schema to support multiple user roles (customer, admin, shipper) and intricate product-order-inventory relationships was an initial hurdle."]
 - **How it was Overcome**: [Describe how you resolved that challenge, e.g., "I dedicated time to researching common e-commerce schema patterns, utilized an ERD design tool, and iterated on the design based on evolving functional requirements."]
 - **What I Would Do Differently**: [Mention areas you would improve or change if you were to restart the project, e.g., "Next time, I would prioritize implementing automated tests (unit/integration tests) for both frontend and backend earlier in the development cycle to ensure higher code quality from the start."]
 - **Overall Lesson**: [Conclude with a general lesson learned from this project, e.g., "This project reinforced my understanding of the importance of detailed architectural planning before coding, and how fullstack components interact within a real-world system."]
 
-## 🤝 Credits/Attribution
+## Credits/Attribution
 
 - **The Odin Project**: https://www.theodinproject.com/
 - **Uniqlo.com**: https://www.uniqlo.com/
@@ -88,7 +88,7 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
   - [Add notes if necessary, e.g., "Used for non-commercial purposes only."]
   - [Add notes if you made modifications: "No changes were made to the original work." or "This work was modified (e.g., cropped, resized)."]
 
-## 📞 Contact
+## Contact
 
 - GitHub: https://github.com/BaoLong294
 - Email: longbao2904@gmail.com
