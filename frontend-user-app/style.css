@@ -1,0 +1,15 @@
+/* Uniqlo Logo Styles */
+.main-header .logo-link svg {
+  width: 90px;
+  height: 40px;
+}
+
+/* header Icons Style */
+.main-header .icon-link svg {
+  width: 24px;
+  height: 24px;
+}
+
+.main-header .icon-link {
+  text-decoration: none;
+}
