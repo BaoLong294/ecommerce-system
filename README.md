@@ -81,6 +81,10 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
 
 - **The Odin Project**: https://www.theodinproject.com/
 - **Uniqlo.com**: https://www.uniqlo.com/
+- **Logo and Icons:**
+  - Artist/Author: Uniqlo
+  - Source: https://www.uniqlo.com/
+  - The SVG code for the Uniqlo logo, globe icon, heart icon, and shopping cart icon were copied for educational purposes from the official Uniqlo website.
 - **[Resource Name, e.g., Sample product images, Cart icon]**:
   - Artist/Author: [Artist's name or link to their profile if available]
   - Source: [Direct URL to the resource or download page]
