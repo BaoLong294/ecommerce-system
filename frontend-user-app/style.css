@@ -1,15 +1,64 @@
+body {
+  background-color: bisque;
+}
+
 /* HEADER NAVIGATION */
 
-/* Uniqlo Logo Styles */
+.main-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1164px;
+  padding: 12px 30px;
+  margin: 0 auto;
+}
+
+.main-header .homepage-link {
+  flex: 1;
+}
+
 .main-header .logo-link svg {
   width: 90px;
   height: 40px;
+  display: block;
 }
 
-/* header Icons Style */
+.main-header h1 {
+  padding: 0;
+  margin: 0;
+}
+
+.main-header .main-nav {
+  flex: 2;
+  max-width: 430px;
+}
+
+.main-header .main-nav-list {
+  display: flex;
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  justify-content: space-between;
+}
+
+.main-header li {
+  color: white;
+  font-family: "Roboto", Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  font-weight: 500;
+}
+
+.main-header .header-icons {
+  display: flex;
+  flex: 1;
+  justify-content: flex-end;
+  gap: 27px;
+}
+
 .main-header .icon-link svg {
   width: 24px;
   height: 24px;
+  fill: white;
 }
 
 .main-header .icon-link {
