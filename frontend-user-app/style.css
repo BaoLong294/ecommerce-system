@@ -1,3 +1,5 @@
+/* HEADER NAVIGATION */
+
 /* Uniqlo Logo Styles */
 .main-header .logo-link svg {
   width: 90px;
@@ -12,4 +14,17 @@
 
 .main-header .icon-link {
   text-decoration: none;
+}
+
+/* BOTTOM NAVIGATION */
+
+.bottom-nav-container .homepage-icon,
+.bottom-nav-container .search-icon {
+  width: 30px;
+  height: 30px;
+}
+
+.bottom-nav-container .personal-icon {
+  width: 32px;
+  height: 32px;
 }
