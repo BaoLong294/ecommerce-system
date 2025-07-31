@@ -85,6 +85,9 @@ This project is a full-fledged e-commerce system developed as part of my Fullsta
   - Artist/Author: Uniqlo
   - Source: https://www.uniqlo.com/
   - The SVG code for the Uniqlo logo, globe icon, heart icon, and shopping cart icon were copied for educational purposes from the official Uniqlo website.
+- **Roboto Font**
+  - This project uses the [Roboto](https://fonts.google.com/specimen/Roboto) typeface by Google Fonts.
+  - Roboto is licensed under the [Apache License, Version 2.0](https://www.apache.org/licenses/LICENSE-2.0).
 - **[Resource Name, e.g., Sample product images, Cart icon]**:
   - Artist/Author: [Artist's name or link to their profile if available]
   - Source: [Direct URL to the resource or download page]
