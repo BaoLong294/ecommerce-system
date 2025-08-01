@@ -140,6 +140,13 @@ body {
 
 /* BOTTOM NAVIGATION */
 
+.bottom-nav-container {
+  display: flex;
+  justify-content: space-between;
+  max-width: 500px;
+  margin: 0 auto;
+}
+
 .bottom-nav-container .homepage-icon,
 .bottom-nav-container .search-icon {
   width: 30px;
