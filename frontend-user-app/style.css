@@ -65,6 +65,21 @@ body {
   text-decoration: none;
 }
 
+/* PRODUCT BANNER */
+
+.product-banner {
+  display: flex;
+  flex-direction: column;
+}
+
+.product-banner .banner-image {
+  flex: 1;
+}
+
+.product-banner .banner-image img {
+  width: 100%;
+}
+
 /* BOTTOM NAVIGATION */
 
 .bottom-nav-container .homepage-icon,
